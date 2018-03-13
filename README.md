@@ -6,7 +6,7 @@ YZMCMS V3.7 Stored XSS
 这个xss存在于v3.7新增的广告管理模块，如图所示:
 This xss exists in v3.7 new advertising management module, as shown in the figure:
 
-![Alt text](AlwaysHereFight/YZMCMSxss/1.png) 
+![Alt text](1.png) 
 
 我们可以在YzmCMS-V3.7\application\advertisement\controller\adver.class.php第55-70行中找到广告管理编辑功能的具体代码，如图所示：
 We can find the specific code of the ad management editing function in YzmCMS-V3.7\application\advertisement\controller\adver.class.php, lines 55-70, as shown in the figure:
