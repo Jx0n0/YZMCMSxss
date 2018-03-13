@@ -1,4 +1,4 @@
-# YZMCMSxss
+# YZMCMSxss CVE-2018-8078
 YZMCMS v3.7最新版xss漏洞
 
 YZMCMS V3.7 Stored XSS
