@@ -40,4 +40,5 @@ After submitting, we can use burp to intercept the data packet and change the ti
 
 我们返回广告管理界面，刷新，此时xss弹框可见，如图所示：
 We return to the ad management interface, refresh, at this time the xss bullet is visible, as shown:
+
 ![Alt text](AlwaysHereFight/YZMCMSxss/8.png)
