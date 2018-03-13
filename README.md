@@ -33,8 +33,8 @@ We can find this function in the background management interface, as shown in th
 
 ![Alt text](AlwaysHereFight/YZMCMSxss/6.png)
 
-点击提交后我们可以用burp拦截该数据包，将title改为"><img src=ss onerror=alert(/xss1/)>，点击发送，如图所示：
-After submitting, we can use burp to intercept the data packet and change the title to "><img src=ss onerror=alert(/xss1/)>. Click Send, as shown:
+点击提交后我们可以用burp拦截该数据包，将title改为```"><img src=ss onerror=alert(/xss1/)>```，点击发送，如图所示：
+After submitting, we can use burp to intercept the data packet and change the title to ```"><img src=ss onerror=alert(/xss1/)>```. Click Send, as shown:
 
 ![Alt text](AlwaysHereFight/YZMCMSxss/7.png)
 
